@@ -1,3 +1,0 @@
-D:/CPP/GBL/Repos/GeekBrain/HW4/cmake-build-debug/CMakeFiles/HW4.dir
-D:/CPP/GBL/Repos/GeekBrain/HW4/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/CPP/GBL/Repos/GeekBrain/HW4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
